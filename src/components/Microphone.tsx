@@ -2,10 +2,12 @@ import React from "react";
 export default function Microphone(props: any) {
   return (
     <svg
+      fill="#000000"
+      height="800px"
+      width="800px"
+      version="1.1"
       xmlns="http://www.w3.org/2000/svg"
-      height="48"
-      viewBox="0 -960 960 960"
-      width="48"
+      viewBox="0 0 512 512"
       className={props?.className}
     >
       <g>
