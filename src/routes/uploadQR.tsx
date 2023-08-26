@@ -1,3 +1,4 @@
-export default function UploadQRPage() {
-  return <div>Hellp</div>;
+import React from "react";
+export default function UploadPage() {
+  return <div>Hello world</div>;
 }
